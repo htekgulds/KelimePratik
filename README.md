@@ -1,2 +1,3 @@
 KelimePratik
 ============
+Pratik yoldan kelime ezberleme programı girişimi...
